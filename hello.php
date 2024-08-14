@@ -1,3 +1,3 @@
 <?php
-echo 'Hello, Table Top Technologies, Hyderabad';
+echo 'Hello, Table Top Technologies';
 ?>
